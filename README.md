@@ -4,6 +4,8 @@ study by [ゼロから作るDeep Learning ―Pythonで学ぶディープラー�
 
 ## environment
 
-development in docker.
-
-- python:3.9.2-slim-buster
+```zsh
+pipenv install
+pipenv run start
+```
+- matplot warning [hint](https://qiita.com/saki-engineering/items/92b7ec12ed07338929a3)

@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[scripts]
+start = "python src/1.4/graph-plot.py"
+format = "autopep8 -ivr ."
+lint = "flake8 --show-source ."
+
+[packages]
+numpy = "*"
+matplot = "*"
+
+[dev-packages]
+autopep8 = "*"
+flake8 = "*"
+
+[requires]
+python_version = "3.9"

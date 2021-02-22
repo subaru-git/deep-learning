@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/Users/okadatakashi/.anyenv/envs/pyenv/shims/python",
+    "python.formatting.autopep8Path": "~/.local/share/virtualenvs/deep-learning-fOoc241i/bin/autopep8",
+    "python.linting.flake8Path": "~/.local/share/virtualenvs/deep-learning-fOoc241i/bin/flake8",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "editor.formatOnSave": true
+}
